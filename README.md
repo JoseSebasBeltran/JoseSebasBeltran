@@ -3,7 +3,7 @@
 <h1>Journalist and developer</h1>
 <p>- 📫 Contact me at this email: Josesebastianrobe@gmail.com </p>
 <p>- 💬 Ask me about all of the Front-end</p>
-<h4>and look my sales page JJcredd.com</h4>
+<h4>and look my sales page JJcreed.com</h4>
 <h3 align="left">I know about:</h3>
 <p>
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
